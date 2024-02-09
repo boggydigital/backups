@@ -1,6 +1,6 @@
 module github.com/boggydigital/hogo
 
-go 1.21
+go 1.22
 
 require github.com/boggydigital/nod v0.1.21
 
