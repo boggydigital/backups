@@ -1,4 +1,4 @@
-module github.com/boggydigital/hogo
+module github.com/boggydigital/konpo
 
 go 1.22
 

@@ -1,4 +1,4 @@
-package hogo
+package konpo
 
 import (
 	"archive/tar"
