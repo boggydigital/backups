@@ -1,4 +1,4 @@
-package konpo
+package backups
 
 import (
 	"archive/tar"

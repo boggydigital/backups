@@ -1,4 +1,4 @@
-package konpo
+package backups
 
 import (
 	"github.com/boggydigital/nod"
